@@ -136,13 +136,13 @@ True
 
 Consider 2 examples:
 
-1. Range intersection on the numeric scale. Suppose we're given an equation:  ![](img/equation.gif)
-
-   Now, we want to identify with which values of **x** it is defined:
+1. Range intersection on the numeric scale. Suppose we want to program system of equations:
 
    - x < -5
    - x ≠2
    - x > - 1
+
+   and then be able to test if an arbitrary point satisfies these equations.
 
     Let's create a range intersection with `rangelist`
 
