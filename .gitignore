@@ -2,3 +2,6 @@ venv
 .idea
 *.pyc
 .pytest_cache
+build
+dist
+rangelist.egg-info
